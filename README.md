@@ -2,15 +2,12 @@
 
 A new Flutter project.
 
-## Getting Started
+## Process
 
-This project is a starting point for a Flutter application.
+1.We create a project
+2.Inside the lib folder we create our main dart files
+3.Then we create two screen one screen have city enter section and another have detail weather section
+4.Detail weather section are change acording diffarent diffarent city.
+5.detail weather section have "weather condition,temperature,humidity,wind speed etc.."
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# If you want to Install this app in your phone .Please download "demoapp.apk" file
